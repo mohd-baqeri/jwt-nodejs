@@ -3,8 +3,8 @@
 We have two separate servers:
   1. For Authentication & Authorization (localhost:4000)
       - npm run authDevStart
-      - npm run devStart
   3. For Viewing the Posts (localhost:3000)
+      - npm run devStart
 
 The project includes a file called: request.rest that you can test the project with...
 
